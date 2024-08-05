@@ -16,6 +16,7 @@ Groqpilot is a very useful tool to run the Groq-API for seamless inference and m
    needs and stay up-to-date with the latest advancements.   
 
 With detailed documentation and a helpful readme.txt file, users can easily understand how to set up and use Groqpilot, making it accessible to a wide audience.
+
 ## Contents
 
 
