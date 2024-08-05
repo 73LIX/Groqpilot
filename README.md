@@ -29,3 +29,10 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
 
    ```bash
    git clone https://github.com/73LIX/Groqpilot.git
+
+2. Run:
+
+   ```bash
+   run_groqpilot.bat
+
+Now the batch file will execute and complete your installation automatically.
