@@ -44,3 +44,12 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
    the default model llama-3.1-70b-versatile will be used.
 
       After the setup is complete, the App will be launched automatically and the URL will be opened in your default web browser.
+
+## Upgrading->Updating
+
+### Windows
+If a new release comes out you can upgrade by using the command:
+
+   ```bash
+    git pull
+
