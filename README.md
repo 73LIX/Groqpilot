@@ -10,8 +10,15 @@ This repository primarily provides a Gradio GUI and additional features to run G
 
 ## 🤝Colab
 
-Here's a colab notebook for you to try out the app. You can run the notebook on the free tier with a CPU runtime.
+Here's a colab notebook to try out the app. You can run the notebook on the free tier with a CPU runtime.
 
 | |Google Colab|
 |:--|:-:|
 | **Groqpilot** |  [![Open in Colab](https://github.com/73LIX/Meta-Llama-3.1-8BxColab/blob/main/asset/colab_logo.svg)](https://colab.research.google.com/drive/1_B3vedI7H994TIm8w0f82Meguj-TtJt0?usp=sharing)
+
+## Installation
+
+### Windows
+**Prerequisites**
+1. Install [Python 3.10.11](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe)
+
