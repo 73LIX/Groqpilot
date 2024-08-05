@@ -21,4 +21,6 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
 ### Windows
 **Prerequisites**
 1. Install [Python 3.10.11](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe)
+2. Install [Git](https://git-scm.com/download/win).
+3. Install the Microsoft Visual Studio.
 
