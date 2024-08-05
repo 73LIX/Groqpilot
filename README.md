@@ -23,6 +23,7 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
 1. Install [Python 3.10.11](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe) <br>
 2. Install [Git](https://git-scm.com/download/win). <br>
 3. Install the [Microsoft Visual Studio](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+4. GroqAPI Key [here](https://console.groq.com/keys).
 
 **Setup**
 1. Clone the repository by running this command:
@@ -30,9 +31,18 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
    ```bash
    git clone https://github.com/73LIX/Groqpilot.git
 
-2. Run:
+2. Run the batch file:
 
    ```bash
    run_groqpilot.bat
 
 The batch file will execute and complete the installation automatically.
+
+3. Enter your API Key:
+   When you run the batch file for the first time you will be prompted for the GroqAPI Key.
+
+4. Choose your model:
+   During the setup, you will be prompted to choose a model from a predefined list or enter your own model ID from Groq. If no choice is made,
+   the default model llama-3.1-70b-versatile will be used.
+
+      After the setup is complete, the App will be launched automatically and the URL will be opened in your default web browser.
