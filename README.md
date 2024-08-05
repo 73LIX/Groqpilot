@@ -69,3 +69,6 @@ If a new release comes out you can upgrade by using the command:
 *   Pull the latest changes from the repository
     ```bash
     git pull
+
+## Contact
+For any kind of support/questions/contact, Dm me on Discord: felix9009
