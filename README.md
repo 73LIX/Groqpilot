@@ -4,6 +4,16 @@ Groqpilot is an application which uses Groq-API to help you run Large language m
 
 This repository primarily provides a Gradio GUI and additional features to run Groq Models.
 
+## Why Use Groqpilot?
+Groqpilot is a very useful tool to run the Groq-API for seamless inference and management, It offers:
+*  User-Friendly Interface: Groqpilot offers a clean, intuitive, and user-friendly interface powered by Gradio. This ensures that users can interact with the chatbot effortlessly, without any steep learning curve.
+*  Chat History Management: Groqpilot allows users to start new chats or continue existing conversations easily. With features like saving and loading chat history, users can pick up right where they left off
+*  Unqiue file naming using NPL: The application includes a sophisticated keyword extraction feature that helps categorize and name chat sessions based on their content. This makes it easier to organize and 
+   retrieve past conversations.
+*  Multi-Model Support: Users can use multiple models in a single application allowing them to explore and try out different models.
+*  Open Source and Extensible: Groqpilot is designed to be open-source, allowing users and developers to modify and extend its functionality. This ensures that the application can evolve with the community's 
+   needs and stay up-to-date with the latest advancements.
+
 ## Contents
 
 
