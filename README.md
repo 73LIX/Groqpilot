@@ -2,7 +2,7 @@
 
 Groqpilot is an application which uses Groq-API to help you run Large language models, on your local computer without a gpu or a high end system requirement. This application will save you tons of storage space and since all the inference is handled through Groq-API, so its really really fast in terms of content/text generation.
 
-This repository primarily provides a Gradio GUI and additional features to run Groq Models.
+This repository primarily provides a Gradio GUI which is a web interface and some additional features to run Groq Models.
 
 ## Contents
 • [Groqpilot](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#groqpilot)
