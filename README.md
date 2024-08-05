@@ -1,1 +1,1 @@
-# GroqPilot
+# Groqpilot
