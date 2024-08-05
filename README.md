@@ -33,7 +33,7 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
 
 | |Google Colab|
 |:--|:-:|
-| **Groqpilot** |  [Working on it]
+| **Groqpilot** |  [![Open in Colab](https://github.com/73LIX/Meta-Llama-3.1-8BxColab/blob/main/asset/colab_logo.svg)](https://colab.research.google.com/drive/1J3da2a0RnImgXu5HSqS2JTidLzTbQd71?usp=sharing)
 
 ## Installation
 
