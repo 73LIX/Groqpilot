@@ -1,0 +1,16 @@
+❗Note:
+
+**You Cannot use two system roles in 1 chat, 1 chat means 1 system role,
+ 
+     for example if you set system role to "Talk as hulk" it will only talk as hulk during the whole chat
+     even if you change it to something like "Ironman". So, if you want to create another system_role, just do it in a new chat by clicking on the start_new_chat option.**
+
+**If you use system_role don't forget to click on the start_new_chat because when the application loads the model is loaded into default chat_history with default role.
+  So as you know only 1 system_role works in 1 chat. If you don't click on the start_new_chat the chat history will be saved in the default directory that is chat_history.json.**
+
+**Use the Update_chat_list after creating a new_chat to load it in the dropdown.**
+
+**You can check the terminal to see where your chats are being saved.**
+
+**Remember to Untick❌ the Start New Chator else it will keep on creating new chat's, basically to continue the chat just select the chat from the List and Untick the Start new chat.**
+
