@@ -4,6 +4,11 @@ Groqpilot is an application which uses Groq-API to help you run Large language m
 
 This repository primarily provides a Gradio GUI and additional features to run Groq Models.
 
+## Contents
+• [Groqpilot](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#groqpilot)
+* [Why Use Groqpilot?](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#why-use-groqpilot)
+* [Google Colab](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#colab)
+
 ## Why Use Groqpilot?
 Groqpilot is a very useful tool to run the Groq-API for seamless inference and management, It offers:
 *  User-Friendly Interface: Groqpilot offers a clean, intuitive, and user-friendly interface powered by Gradio. This ensures that users can interact with the chatbot effortlessly, without any steep learning curve.
@@ -16,10 +21,6 @@ Groqpilot is a very useful tool to run the Groq-API for seamless inference and m
    needs and stay up-to-date with the latest advancements.   
 
 With detailed documentation and a helpful readme.txt file, users can easily understand how to set up and use Groqpilot, making it accessible to a wide audience.
-
-## Contents
-
-
 
 ## 🤝Colab
 
