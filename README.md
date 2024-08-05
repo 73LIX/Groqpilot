@@ -31,12 +31,10 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
    ```bash
    git clone https://github.com/73LIX/Groqpilot.git
 
-2. Run the batch file:
+2. Run the batch file: The batch file will execute and complete the installation automatically.
 
    ```bash
    run_groqpilot.bat
-
-  The batch file will execute and complete the installation automatically.
 
 3. Enter your API Key:
    When you run the batch file for the first time you will be prompted for the GroqAPI Key.
