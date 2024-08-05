@@ -24,3 +24,6 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
 2. Install [Git](https://git-scm.com/download/win). <br>
 3. Install the [Microsoft Visual Studio](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
+**Setup**
+1. Clone the repository by running this command:
+   `git clone https://github.com/73LIX/Groqpilot.git`
