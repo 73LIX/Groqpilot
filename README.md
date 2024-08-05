@@ -26,5 +26,5 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
 
 **Setup**
 1. Clone the repository by running this command:
-
+<kbd>Copy</kbd>
    ```git clone https://github.com/73LIX/Groqpilot.git```
