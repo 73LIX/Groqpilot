@@ -8,6 +8,8 @@ This repository primarily provides a Gradio GUI and additional features to run G
 • [Groqpilot](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#groqpilot)
 * [Why Use Groqpilot?](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#why-use-groqpilot)
 * [Google Colab](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#colab)
+* [Installation](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#installation)
+     * [Windows](https://github.com/73LIX/Groqpilot?tab=readme-ov-file#installation)
 
 ## Why Use Groqpilot?
 Groqpilot is a very useful tool to run the Groq-API for seamless inference and management, It offers:
