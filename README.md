@@ -35,4 +35,4 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
    ```bash
    run_groqpilot.bat
 
-Now the batch file will execute and complete your installation automatically.
+The batch file will execute and complete your installation automatically.
