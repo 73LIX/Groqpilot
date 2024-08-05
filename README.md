@@ -43,7 +43,7 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
    During the setup, you will be prompted to choose a model from a predefined list or enter your own model ID from Groq. If no choice is made,
    the default model llama-3.1-70b-versatile will be used.
 
-      After the setup is complete, the App will be launched automatically and the URL will be opened in your default web browser.
+      After the setup is complete, the App will be launched automatically and the Local Gradio URL will be opened in your default web browser.
 
 ## Upgrading->Updating
 
