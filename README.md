@@ -49,7 +49,6 @@ Here's a colab notebook to try out the app. You can run the notebook on the free
 
 ### Windows
 If a new release comes out you can upgrade by using the command:
-
-   ```bash
+*   Pull the latest changes from the repository
+    ```bash
     git pull
-
